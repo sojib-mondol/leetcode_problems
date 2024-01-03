@@ -1,5 +1,5 @@
 // https://www.codingninjas.com/studio/problems/inorder-traversal_3839605?leftPanelTabValue=PROBLEM
-// solution in c++
+// Inorder Traversal solution in c++
 
 /*
     Following is Binary Tree Node structure:

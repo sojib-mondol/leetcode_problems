@@ -1,5 +1,5 @@
 // https://www.codingninjas.com/studio/problems/name_2035933?leftPanelTabValue=PROBLEM
-//  solutin in c++
+//  Postorder Traversal solutin in c++
 
 /*
     Following is Binary Tree Node structure:

@@ -1,5 +1,5 @@
 // https://www.codingninjas.com/studio/problems/level-order-traversal_796002?leftPanelTabValue=PROBLEM
-//  solution in c++
+//  Level Order Traversal solution in c++
 
 #include <bits/stdc++.h>
 /************************************************************
